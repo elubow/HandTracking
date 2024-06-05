@@ -1,0 +1,7 @@
+
+# Vim
+*.sw[op]
+
+# Python
+*.pyc
+.conda
